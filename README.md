@@ -83,3 +83,11 @@ Rows that do not map to these groups are removed to ensure enough examples per c
    jupyter notebook
    ```
    Then open `Sentiment_Analysis.ipynb` from the browser interface.
+   
+## Data
+
+This project uses the **Social Media Sentiments Analysis Dataset** by Kashish Parmar on Kaggle:
+https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset
+
+The raw CSV file is not redistributed in this repository.  
+To run the notebook, download the dataset from Kaggle and save it as `sentimentdataset.csv` in the project folder (or update the path in the notebook).
